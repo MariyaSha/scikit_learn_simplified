@@ -18,8 +18,8 @@ You will find several resources inside this repository, please read the instruct
 ## 📚 FURTHER LEARNING 📚
 If at any point, you find yourself stuck or wondering "what on Earth is she writing about??", please check out some of my video tutorials below for detailed explanations:
 1. What's "features", "samples", and "targets"? Detailed explanation with real-life examples:
-    ⭐ Machine Learning FOR BEGINNERS - Supervised, Unsupervised and Reinforcement Learning:
-        https://youtu.be/mMc_PIemSnU
-2. What's Linear Regression?
-    ⭐ Linear Regression Algorithm with Code Examples:
-        https://youtu.be/MkLBNUMc26Y
+   ⭐ Machine Learning FOR BEGINNERS - Supervised, Unsupervised and Reinforcement Learning:
+   https://youtu.be/mMc_PIemSnU
+3. What's Linear Regression?
+   ⭐ Linear Regression Algorithm with Code Examples:
+   https://youtu.be/MkLBNUMc26Y
