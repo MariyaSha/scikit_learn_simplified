@@ -15,9 +15,16 @@ You will find several resources inside this repository, please read the instruct
 - **CPU vs GPU Speed Test for Scikit-Learn**: coming soon...
 - **CPU vs GPU Speed Test Results Analysis**: coming soon...
 
-## 📚 FURTHER LEARNING 📚
+## 📚 Further Learning 📚
 If at any point, you find yourself stuck or wondering "what on Earth is she writing about??", please check out some of my video tutorials below for detailed explanations:
-1. What's "features", "samples", and "targets"? Detailed explanation with real-life examples:
-   - Machine Learning FOR BEGINNERS - Supervised, Unsupervised and Reinforcement Learning: https://youtu.be/mMc_PIemSnU
-3. What's Linear Regression?
-   - Linear Regression Algorithm with Code Examples: https://youtu.be/MkLBNUMc26Y
+
+- What's "features", "samples", and "targets"? Detailed explanation with real-life examples:
+   <br>
+   ⭐ Machine Learning FOR BEGINNERS - Supervised, Unsupervised and Reinforcement Learning:
+   <br>
+       https://youtu.be/mMc_PIemSnU
+- What's Linear Regression?
+  <br>
+  ⭐ Linear Regression Algorithm with Code Examples:
+  <br>
+      https://youtu.be/MkLBNUMc26Y
