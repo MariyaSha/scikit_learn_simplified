@@ -31,7 +31,9 @@ coming soon...
 - **CPU vs GPU Speed Test Results Analysis**: coming soon in /speedtest...
 
 ## 📚 Further Learning 📚
-If at any point, you find yourself stuck or wondering "what on Earth is she writing about??", please check out some of my video tutorials below for detailed explanations:
+If at any point, you find yourself stuck or wondering "what on Earth is she writing about??"
+<br>
+Please check out some of my video tutorials below for detailed explanations:
 
 - What's "features", "samples", and "targets"? Detailed explanation with real-life examples:
    <br>
