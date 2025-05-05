@@ -40,7 +40,7 @@ coming soon...
 - **CPU vs GPU Speed Test Results Analysis**: coming soon in /speedtest...
 
 ## 📺 Video Tutorials 📺
-This repository is designed to support my step by step YouTube tutorial (premiering on **April 29th**):
+This repository is designed to support the following YouTube tutorials:
 <br>
 <br>
 <a href="https://youtu.be/-IvNzmrcyUM">
