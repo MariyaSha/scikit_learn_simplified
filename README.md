@@ -56,12 +56,13 @@ git clone https://github.com/MariyaSha/scikit_learn_simplified.git
 cd scikit_learn_simplified
 jupyter lab
 ```
-7. Navigate to the speedtest directory and create 
+7. Navigate to speedtest/YOUR_SYSTEM/GPU_CPU_Speedtest.ipynb and follow the instructions within the notebook to perform a speedtest on your hardware.
+8. Once you obtain the results of your speedtest, you can visualize them in speedtest/speedtest_results_analysis.ipynb.
 
-### 🧠 Content 🧠
+### 🧠 Workflow Options 🧠
 - **Simple Scikit-Learn Machine Learning Code Demo for Beginners**: ml_with_california_housing.ipynb
-- **CPU vs GPU Speed Test for Scikit-Learn**: coming soon in /speedtest...
-- **CPU vs GPU Speed Test Results Analysis**: coming soon in /speedtest...
+- **CPU vs GPU Speed Test for Scikit-Learn**: speedtest/YOUR_SYSTEM/GPU_CPU_Speedtest.ipynb
+- **CPU vs GPU Speed Test Results Analysis**: speedtest/speedtest_results_analysis.ipynb
 
 ## 📺 Video Tutorials 📺
 This repository is designed to support the following YouTube tutorials:
