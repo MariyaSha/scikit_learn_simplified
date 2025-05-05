@@ -71,7 +71,7 @@ This repository is designed to support the following YouTube tutorials:
 <a href="https://youtu.be/-IvNzmrcyUM">
 <img src="https://github.com/user-attachments/assets/a8222d95-a9c1-459e-8233-e8693768fdfa" style="width:300px;" alt="Simple Machine Learning with Sklearn Thumbnail">
 </a>
-<a href="https://youtu.be/mxtSO0EGgtw">
+<a href="">
 <img src="https://github.com/user-attachments/assets/a799694f-b6bd-4c2f-853d-9ea26da0767a" style="width:300px;" alt="Simple Machine Learning with Sklearn Thumbnail">
 </a>
 
