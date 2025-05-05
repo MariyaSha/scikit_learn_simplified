@@ -2,7 +2,7 @@
 simple machine learning coding workflows with scikit-learn
 <br>
 <br>
-<img src="https://github.com/user-attachments/assets/a799694f-b6bd-4c2f-853d-9ea26da0767a" style="width:600px;" alt="Simple Machine Learning with Sklearn Cover">
+<img src="https://github.com/user-attachments/assets/a8222d95-a9c1-459e-8233-e8693768fdfa" style="width:600px;" alt="Simple Machine Learning with Sklearn Cover">
 
 ## 🔍 Instructions 🔍
 The repo includes several workflows designed for running Sklearn both on CPU, and on GPU with NVIDIA cuML.
@@ -44,7 +44,7 @@ This repository is designed to support my step by step YouTube tutorial (premier
 <br>
 <br>
 <a href="https://youtu.be/-IvNzmrcyUM">
-<img src="https://github.com/user-attachments/assets/a799694f-b6bd-4c2f-853d-9ea26da0767a" style="width:300px;" alt="Simple Machine Learning with Sklearn Thumbnail">
+<img src="https://github.com/user-attachments/assets/a8222d95-a9c1-459e-8233-e8693768fdfa" style="width:300px;" alt="Simple Machine Learning with Sklearn Thumbnail">
 </a>
 <a href="https://youtu.be/mxtSO0EGgtw">
 <img src="https://github.com/user-attachments/assets/a799694f-b6bd-4c2f-853d-9ea26da0767a" style="width:300px;" alt="Simple Machine Learning with Sklearn Thumbnail">
