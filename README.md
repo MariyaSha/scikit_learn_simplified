@@ -11,6 +11,7 @@ The repo includes several workflows designed for running Sklearn both on CPU, an
 1. Please use a WSL terminal with Anaconda installed, and enter the following commands:
 ```
 conda create -n ml_env python=3.12
+conda activate ml_env
 pip install scikit-learn
 pip install jupyter
 ```
@@ -30,9 +31,32 @@ localhost:8888
 5. Open Notebook: `ml_with_california_housing.ipynb`
 
 ### 🌅 GPU Environment Workflow Instructions 🌅
+1. Please use a WSL terminal with Anaconda installed, as described in the RAPIDS Installation Guide: https://docs.rapids.ai/install
+2. Make sure your GPU driver is up to date and make a note of the CUDA version you have, shown by:
 ```
-coming soon...
+nvidia-smi
 ```
+3. Pick your version of CUDA in the RAPIDS Instalation Guide, and "Choose a Specific Pakcage" of cuML (and jupyter). The resulting generated command should look similar to this:
+```
+conda create -n cuml_env -c rapidsai -c conda-forge -c nvidia  \
+    cuml=25.04 python=3.12 'cuda-version>=12.0,<=12.8' \
+    jupyterlab
+```
+4. Activate newly created environment, and install Scikit-Learn in it:
+```
+activate cuml_env
+pip install scikit-learn
+```
+5. Clone the scikit_learn_simplified Repository to your computer (if you haven't done that already):
+```
+git clone https://github.com/MariyaSha/scikit_learn_simplified.git
+```
+6. Run Jupyter Notebook:
+```
+cd scikit_learn_simplified
+jupyter lab
+```
+7. Navigate to the speedtest directory and create 
 
 ### 🧠 Content 🧠
 - **Simple Scikit-Learn Machine Learning Code Demo for Beginners**: ml_with_california_housing.ipynb
