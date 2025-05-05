@@ -1,26 +1,35 @@
 # scikit_learn_simplified
-simple machine learning workflows with scikit-learn
-
-## 📺 Video Tutorial 📺
-This repository is designed to support my step by step YouTube tutorial (premiering on **April 29th**):
+simple machine learning coding workflows with scikit-learn
 <br>
 <br>
-<a href="https://youtu.be/-IvNzmrcyUM">
-<img src="https://github.com/user-attachments/assets/25604b39-7da3-4916-b5c6-18292efb3017" style="width:600px;" alt="Simple Machine Learning with Sklearn Thumbnail">
-</a>
+<img src="https://github.com/user-attachments/assets/a799694f-b6bd-4c2f-853d-9ea26da0767a" style="width:600px;" alt="Simple Machine Learning with Sklearn Cover">
 
 ## 🔍 Instructions 🔍
-You will find several resources inside this repository, please read the instructions carefully before cloning.
-<br>
-The repo includes workflow designed for running Sklearn on CPU, and on GPU with NVIDIA cuML.
+The repo includes several workflows designed for running Sklearn both on CPU, and on GPU with NVIDIA cuML.
 
-### 🌄 CPU Environment Setup 🌄
+### 🌄 CPU Workflow Instructions 🌄
+1. Please use a WSL terminal with Anaconda installed, and enter the following commands:
 ```
 conda create -n ml_env python=3.12
 pip install scikit-learn
 pip install jupyter
 ```
-### 🌄 GPU Environment Setup 🌄
+2. Clone the scikit_learn_simplified Repository to your computer:
+```
+git clone https://github.com/MariyaSha/scikit_learn_simplified.git
+```
+3. Run Jupyter Notebook:
+```
+cd scikit_learn_simplified
+jupyter lab
+```
+4. Type in your browser:
+```
+localhost:8888
+```
+5. Open Notebook: `ml_with_california_housing.ipynb`
+
+### 🌅 GPU Environment Workflow Instructions 🌅
 ```
 coming soon...
 ```
@@ -29,6 +38,17 @@ coming soon...
 - **Simple Scikit-Learn Machine Learning Code Demo for Beginners**: ml_with_california_housing.ipynb
 - **CPU vs GPU Speed Test for Scikit-Learn**: coming soon in /speedtest...
 - **CPU vs GPU Speed Test Results Analysis**: coming soon in /speedtest...
+
+## 📺 Video Tutorials 📺
+This repository is designed to support my step by step YouTube tutorial (premiering on **April 29th**):
+<br>
+<br>
+<a href="https://youtu.be/-IvNzmrcyUM">
+<img src="https://github.com/user-attachments/assets/a799694f-b6bd-4c2f-853d-9ea26da0767a" style="width:300px;" alt="Simple Machine Learning with Sklearn Thumbnail">
+</a>
+<a href="https://youtu.be/mxtSO0EGgtw">
+<img src="https://github.com/user-attachments/assets/a799694f-b6bd-4c2f-853d-9ea26da0767a" style="width:300px;" alt="Simple Machine Learning with Sklearn Thumbnail">
+</a>
 
 ## 📚 Further Learning 📚
 If at any point, you find yourself stuck or wondering "what on Earth is she writing about??"
